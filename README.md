@@ -1,15 +1,4 @@
-<table>
-  <tr>
-    <td width="50%">
-      <h2>Hi, I'm Hayato 👋</h2>
-      <p>I am a software developer...</p>
-    </td>
-    <td width="50%">
-      <h3>My Skills</h3>
-      <img src="https://skillicons.dev" />
-    </td>
-  </tr>
-</table>
+## Hi, I'm Hayato 👋
 <!--
 **gabehayapan/gabehayapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
